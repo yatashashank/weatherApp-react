@@ -7,6 +7,7 @@ import Form from './components/Form';
 import Titles from './components/Titles';
 
 
+const sandy = 'Hi';
 const KEY = '79d7195b3cd2d703688c107e26713bd8';
 
 class App extends Component {
